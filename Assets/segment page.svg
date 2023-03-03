@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="3840" height="2160" viewBox="0 0 3840 2160" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.6</desc>
+<defs>
+</defs>
+<g transform="matrix(43.96 0 0 43.79 1910.18 1064.64)"  >
+<linearGradient id="SVGID_572" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -45 -25)"  x1="0" y1="25" x2="90" y2="25">
+<stop offset="0%" style="stop-color:rgba(242, 241, 190, 1);"/>
+<stop offset="100%" style="stop-color:rgba(190, 251, 255, 1);"/>
+</linearGradient>
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_572); fill-rule: nonzero; opacity: 1;"  x="-45" y="-25" rx="0" ry="0" width="90" height="50" />
+</g>
+<g transform="matrix(14.26 0 0 20.42 765.99 1090)"  >
+<linearGradient id="SVGID_574" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -50 -50)"  x1="0" y1="50" x2="100" y2="50">
+<stop offset="0%" style="stop-color:rgba(255, 255, 218, 1);"/>
+<stop offset="100%" style="stop-color:rgba(255, 255, 255, 1);"/>
+</linearGradient>
+<polygon style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: ; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_574); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  points="-50,-50 -50,50 50,50 50,-50 " />
+</g>
+<g transform="matrix(6.13 -0.01 0.01 6.13 3489.67 762.04)"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: ; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,218); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="40" />
+</g>
+<g transform="matrix(1 0 0 1 785 799)"  >
+<line style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x1="0" y1="2" x2="0" y2="-2" />
+</g>
+<g transform="matrix(6.13 -0.01 0.01 6.13 3578.76 269.64)"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: ; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,218); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="40" />
+</g>
+<g transform="matrix(6.13 -0.01 0.01 6.13 3102.76 433.64)"  >
+<circle style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: ; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,218); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="40" />
+</g>
+</svg>
